@@ -1,0 +1,1 @@
+print('O arquivo python foi adicionado ao projeto')
