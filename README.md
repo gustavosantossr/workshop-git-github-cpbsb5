@@ -1,8 +1,11 @@
  
 # Git e Github: dê os primeiros passos no versionamento de código!
 > Workshop apresentado na Campus Party Brasília 2023
+
 > Arena Workshop Big Bang
+
 > Data: 08/04/2023 
+
 > #CPBSB5 #CPBR
 
 
