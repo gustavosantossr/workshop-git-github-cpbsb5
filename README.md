@@ -1,5 +1,5 @@
-# workshop-git-github-cpbsb
-Workshop Git e Github na Campus Party Brasília 2023 - Arena Workshop Big Bang - Data: 08/04/2023 #CPBSB5 #CPBR
+# Git e Github: dê os primeiros passos no versionamento de código!
+> Workshop apresentado na Campus Party Brasília 2023 - Arena Workshop Big Bang - Data: 08/04/2023 #CPBSB5 #CPBR
 
 # 📱 Me encontre em:
 <div style="display: inline_block">     
