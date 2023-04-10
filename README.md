@@ -9,3 +9,5 @@
      <a href="https://www.instagram.com/gustavribeiro/"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">   
      <a href="https://medium.com/@ribeirogustavo"> <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </div>
+<br>
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
