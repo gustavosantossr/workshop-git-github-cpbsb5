@@ -1,2 +1,1 @@
-### Apresentação de slides do workshop apresentada. 
-### Por conta do projetor, alterei de ultima hora a cor dos slides e não ficou no padrão que a Campus definiu.
+#### Apresentação de slides apresentada durante o workshop no dia 08/04/23. Por conta do projetor da arena, alterei de última hora a cor dos slides e não ficou no padrão que a Campus Party definiu, para a melhor visualização dos participantes presentes. 
